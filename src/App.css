@@ -56,7 +56,9 @@
   text-align: left;
 }
 @media only screen and (max-width: 1150px) {
-
+  .img__box{
+    padding-bottom: 20px;
+  }
   .text__box h1{
     font-size: 24px;
     line-height: 28px;
@@ -75,6 +77,9 @@
  
 }
 @media only screen and (max-width: 788px) {
+  .img__box{
+    padding-bottom: 20px;
+  }
   .hero__ui{
     flex-direction: column-reverse;
   }
@@ -94,7 +99,9 @@
 
 
 @media only screen and (max-width: 425px) {
-
+  .img__box{
+    padding-bottom: 20px;
+  }
 
   .text__box h1{
     font-size: 24px;

@@ -79,7 +79,7 @@
     flex-direction: column-reverse;
   }
   .img__box{
-    height: 300px !important;
+    height: 340px !important;
   }
   .text__box{
     width: 100% !important;
@@ -124,7 +124,9 @@
 
 @media only screen and (max-width: 355px) {
 
-
+  .img__box{
+    padding-bottom: 20px;
+  }
   .text__box h1{
     font-size: 20px;
     padding: 0px 20px 0px 8px;

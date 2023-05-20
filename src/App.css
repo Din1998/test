@@ -91,6 +91,65 @@
     height: 400px !important;
   }
 }
+
+
+@media only screen and (max-width: 425px) {
+
+
+  .text__box h1{
+    font-size: 24px;
+    padding: 0px 20px 0px 8px;
+  }
+  .text__box p{
+    padding: 0px 20px 0px 8px !important;
+    font-size: 20px;
+    line-height: 22px;
+    padding: 12px 18px 0px 18px;
+  }
+  .email__btn{
+    height: 38px !important;
+    width: 104px !important;
+    font-size: 10px;
+  }
+  .hero__btn{
+    padding: 8px 0px 0px 8px !important;
+  }
+  .linkedin__btn{
+    height: 38px !important;
+    width: 104px !important;
+    font-size: 10px;
+  }
+
+}
+
+@media only screen and (max-width: 355px) {
+
+
+  .text__box h1{
+    font-size: 20px;
+    padding: 0px 20px 0px 8px;
+  }
+  .text__box p{
+    padding: 0px 20px 0px 8px !important;
+    font-size: 16px;
+    line-height: 18px;
+    padding: 12px 18px 0px 18px;
+  }
+  .email__btn{
+    height: 38px !important;
+    width: 104px !important;
+    font-size: 10px;
+  }
+  .hero__btn{
+    padding: 8px 0px 0px 8px !important;
+  }
+  .linkedin__btn{
+    height: 38px !important;
+    width: 104px !important;
+    font-size: 10px;
+  }
+
+}
 .span__text{
   color:#6B7280;
 }
